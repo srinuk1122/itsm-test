@@ -1,0 +1,9 @@
+.menu-container{
+  display: flex;
+   margin: 10px;
+   justify-content: center;
+}
+.nav-element{
+  margin: 5px;
+  font-size:25px;
+}
